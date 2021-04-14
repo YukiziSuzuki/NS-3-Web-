@@ -76,6 +76,12 @@ public class Sample {
 			j--;
 		}
 		
+		for(int i=0; i<100; i++) {
+			System.out.print(" "+ reverse[i]);
+		}
+		System.out.println();
+		System.out.println();
+		
 	}
 	
 	void today() {
@@ -132,3 +138,6 @@ public class Sample {
 	
 
 }
+
+
+
